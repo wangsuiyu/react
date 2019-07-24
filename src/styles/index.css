@@ -1,0 +1,12 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.am-tabs-tab-bar-wrap {
+  flex-shrink: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
