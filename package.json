@@ -37,7 +37,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
     "customize-cra": "^0.2.12",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "styled-jsx-plugin-sass": "^1.0.0"
   }
 }
